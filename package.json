@@ -1,0 +1,21 @@
+{
+  "name":  "r18-calculator",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30",
+    "nodejs_cli_based_calculator": "^1.0.4",
+    "prompt-sync": "^4.2.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
